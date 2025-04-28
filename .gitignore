@@ -15,4 +15,8 @@ src/.vs/slnx.sqlite
 .vs/slnx.sqlite
 *.gif
 ./myenv
+# Large files to ignore
 src/dist/Proton.exe
+src/output/Proton/_internal/cv2/cv2.pyd
+src/output/Proton/_internal/mediapipe/python/opencv_world3410.dll
+
